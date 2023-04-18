@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Fahad Bin Wadud</h1>  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=20FF77&background=59FF3C00&center=true&width=700&height=90&lines=A+Software+Quality+Assurance++Enthusiastic+from+Bangladesh)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=20FF77&background=59FF3C00&center=true&width=700&height=90&lines=A+Software+Quality+Assurance++Enthusiastic+from+Bangladesh)](https://git.io/typing-svg)   
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fahadbinwadud-cse&label=Profile%20views&color=ABFF32&style=flat" alt="fahadbinwadud-cse" /> </p>  
 
 - Looking for a challenging career with a progressive software company that can get benefit from my technical skills and abilities in the field of Software Testing.  
 - ⚡ An honest, reliable, and disciplined approach to my work.   
