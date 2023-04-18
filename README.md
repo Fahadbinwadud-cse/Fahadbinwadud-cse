@@ -1,19 +1,36 @@
-![MasterHead](https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2016/05/16105109/Software-Test-Management.gif)
-<h1 align="center">Hi 👋, I'm Fahad Bin Wadud</h1>
-<h3 align="center">A passionate software quality engineer from Bangladesh</h3>
-<img align="right" alt="Bug/Defect Finding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h1 align="center">Hi 👋, I'm Fahad Bin Wadud</h1>  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fahadbinwadud-cse&label=Profile%20views&color=0e75b6&style=flat" alt="fahadbinwadud-cse" /> </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=20FF77&background=59FF3C00&center=true&width=700&height=90&lines=A+Software+Quality+Assurance++Enthusiastic+from+Bangladesh)](https://git.io/typing-svg)
+
+<h3 align="center">A passionate software quality engineer from Bangladesh</h3>
+
+
+- Looking for a challenging career with a progressive software company that can get benefit from my technical skills and abilities in the field of Software Testing.  
+- ⚡ An honest, reliable, and disciplined approach to my work.   
+- ⚡ The ability to follow the rules and procedures.  
+- ⚡ An ability to be honest with my colleagues.
+- ⚡ Always try to give my best to complete a given task.  
+- ⚡ A positive and enthusiastic attitude to my work
 
 - 🌱 I’m currently learning **Automation Testing,Selenium**
-
-- 👨‍💻 All of my projects are available at [linkedin.com/in/fahad-bin-wadud](linkedin.com/in/fahad-bin-wadud)
-
-- 💬 Ask me about **Manual Testing, JMeter, Postman, Newman**
 
 - 📫 How to reach me **fahadbinwadud.cse@gmail.com**
 
 - ⚡ Fun fact **I think I am Funny**
+📌 Manual Testing:
+- Having the ability of Gathering and Analyzing Requirements, Doing Unit Testing, Doing Integration Testing, Doing System Testing, Doing User Acceptance Testing, Writing Test Plans, Developing Test Cases.  
+
+- Writing Negative Test Cases, Developing Test Scenarios, Doing Test Execution & Evaluation, Writing Bug Reports & Test Reports, Doing Root Cause Analysis.  
+
+- Good knowledge of White Box Testing and Black Box Testing  
+
+- Good knowledge of SDLC, STLC, Regression Testing, and Retesting  
+
+- Sound knowledge in Smoke Testing, Sanity Testing  
+📌 Performance & Load Testing Tool: JMeter  
+📌 API Testing Tool: Postman & Newman  
+📌 Project Management Tool: Jira  
+📌 Source & Version Control: Git  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
