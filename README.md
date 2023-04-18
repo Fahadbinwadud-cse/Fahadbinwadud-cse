@@ -16,8 +16,12 @@
 
 - 📫 How to reach me **fahadbinwadud.cse@gmail.com**
 
-- ⚡ Fun fact **I think I am Funny**
-📌 Manual Testing:
+- ⚡ Fun fact **I think I am Funny**    
+
+## Skills :  
+
+### 📌 Manual Testing:
+
 - Having the ability of Gathering and Analyzing Requirements, Doing Unit Testing, Doing Integration Testing, Doing System Testing, Doing User Acceptance Testing, Writing Test Plans, Developing Test Cases.  
 
 - Writing Negative Test Cases, Developing Test Scenarios, Doing Test Execution & Evaluation, Writing Bug Reports & Test Reports, Doing Root Cause Analysis.  
@@ -27,10 +31,11 @@
 - Good knowledge of SDLC, STLC, Regression Testing, and Retesting  
 
 - Sound knowledge in Smoke Testing, Sanity Testing  
-📌 Performance & Load Testing Tool: JMeter  
-📌 API Testing Tool: Postman & Newman  
-📌 Project Management Tool: Jira  
-📌 Source & Version Control: Git  
+  
+### 📌 Performance & Load Testing Tool: JMeter  
+### 📌 API Testing Tool: Postman & Newman  
+### 📌 Project Management Tool: Jira  
+### 📌 Source & Version Control: Git  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
