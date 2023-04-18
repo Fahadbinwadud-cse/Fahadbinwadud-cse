@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=20FF77&background=59FF3C00&center=true&width=700&height=90&lines=A+Software+Quality+Assurance++Enthusiastic+from+Bangladesh)](https://git.io/typing-svg)
 
-<h3 align="center">A passionate software quality engineer from Bangladesh</h3>
-
 
 - Looking for a challenging career with a progressive software company that can get benefit from my technical skills and abilities in the field of Software Testing.  
 - ⚡ An honest, reliable, and disciplined approach to my work.   
