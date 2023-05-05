@@ -20,7 +20,7 @@
 
 ## Skills :  
 
-### 📌 Manual Testing:
+### 📌 Manual Testing :
 
 •	Understanding Software Requirement Specification and identifying the required Test Scenarios.
 
@@ -36,9 +36,9 @@
 
 - Good knowlodge in Smoke Testing, Sanity Testing  
   
-### 📌 Performance & Load Testing Tool: JMeter  
-### 📌 API Testing Tool: Postman & Newman  
-### 📌 Functional Test Automation Using Selenium  
+### 📌 Performance & Load Testing Tool : JMeter  
+### 📌 API Testing Tool : Postman & Newman  
+### 📌 Functional Test Automation Using Selenium :  
 
 •	Good Knowledge on Selenium Automation Too which includes - Selenium WebDriver  
 
@@ -48,8 +48,8 @@
  
 •	Exposure on GIT
 
-### 📌 Project Management Tool: Jira  
-### 📌 Source & Version Control: Git  
+### 📌 Project Management Tool : Jira  
+### 📌 Source & Version Control : Git  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
