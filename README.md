@@ -22,9 +22,9 @@
 
 ### 📌 Manual Testing :
 
-•	Understanding Software Requirement Specification and identifying the required Test Scenarios.
+-	Understanding Software Requirement Specification and identifying the required Test Scenarios.
 
-•	Well versed with SDLC, STLC and Defect Life Cycle
+-	Well versed with SDLC, STLC and Defect Life Cycle
 
 -	Professional Software Experience in which includes Effective identify Test Scenarios, Test Case Designing and Test Case Preparing.
 
