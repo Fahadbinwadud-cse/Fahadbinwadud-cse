@@ -26,13 +26,13 @@
 
 •	Well versed with SDLC, STLC and Defect Life Cycle
 
-•	Professional Software Experience in which includes Effective identify Test Scenarios, Test Case Designing and Test Case Preparing.
+-	Professional Software Experience in which includes Effective identify Test Scenarios, Test Case Designing and Test Case Preparing.
 
-•	Extensive Exposure in Black Box Testing using BVA and ECP.
+-	Extensive Exposure in Black Box Testing using BVA and ECP.
 
-•	Experience in testing the functionality, Compatibility, Database Testing.
+-	Experience in testing the functionality, Compatibility, Database Testing.
 
-•	Defect Reporting and Tracking using Automation Tools JIRA
+-	Defect Reporting and Tracking using Automation Tools JIRA
 
 - Good knowlodge in Smoke Testing, Sanity Testing  
   
@@ -40,13 +40,13 @@
 ### 📌 API Testing Tool : Postman & Newman  
 ### 📌 Functional Test Automation Using Selenium :  
 
-•	Good Knowledge on Selenium Automation Too which includes - Selenium WebDriver  
+-	Good Knowledge on Selenium Automation Too which includes - Selenium WebDriver  
 
-•	Good knowledge on Core Java Programming,  
+-	Good knowledge on Core Java Programming,  
 
-•	Good knowledge on Page Object Model, Junit, TestNG  and Data Driven Frame work.  
+-	Good knowledge on Page Object Model, Junit, TestNG  and Data Driven Frame work.  
  
-•	Exposure on GIT
+-	Exposure on GIT
 
 ### 📌 Project Management Tool : Jira  
 ### 📌 Source & Version Control : Git  
