@@ -22,18 +22,32 @@
 
 ### 📌 Manual Testing:
 
-- Having the ability of Gathering and Analyzing Requirements, Doing Unit Testing, Doing Integration Testing, Doing System Testing, Doing User Acceptance Testing, Writing Test Plans, Developing Test Cases.  
+•	Understanding Software Requirement Specification and identifying the required Test Scenarios.
 
-- Writing Negative Test Cases, Developing Test Scenarios, Doing Test Execution & Evaluation, Writing Bug Reports & Test Reports, Doing Root Cause Analysis.  
+•	Well versed with SDLC, STLC and Defect Life Cycle
 
-- Good knowledge of White Box Testing and Black Box Testing  
+•	Professional Software Experience in which includes Effective identify Test Scenarios, Test Case Designing and Test Case Preparing.
 
-- Good knowledge of SDLC, STLC, Regression Testing, and Retesting  
+•	Extensive Exposure in Black Box Testing using BVA and ECP.
 
-- Sound knowledge in Smoke Testing, Sanity Testing  
+•	Experience in testing the functionality, Compatibility, Database Testing.
+
+•	Defect Reporting and Tracking using Automation Tools JIRA
+
+- Good knowlodge in Smoke Testing, Sanity Testing  
   
 ### 📌 Performance & Load Testing Tool: JMeter  
 ### 📌 API Testing Tool: Postman & Newman  
+### 📌 Functional Test Automation Using Selenium  
+
+•	Good Knowledge on Selenium Automation Too which includes - Selenium WebDriver  
+
+•	Good knowledge on Core Java Programming,  
+
+•	Good knowledge on Page Object Model, Junit, TestNG  and Data Driven Frame work.  
+ 
+•	Exposure on GIT
+
 ### 📌 Project Management Tool: Jira  
 ### 📌 Source & Version Control: Git  
 
